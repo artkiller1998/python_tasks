@@ -1,0 +1,421 @@
+Skills for this vacancy:
+- Высшее техническое, профильное
+.NET Framework
+152-ФЗ
+1C
+1C:Предприятие
+1С
+1С программирование
+1С-Битрикс
+1С: Предприятие
+1С: Предприятие 8
+63-ФЗ
+AD
+AD,WSUS,Exchange,DHCP,DNS
+API
+ATC Panasonic
+AWS
+Active Directory
+Administrative Support
+Adobe After Effect
+Adobe CS
+Adobe Design
+Ajax
+Amazon
+Android
+Ansible
+Apache
+Apache HTTP Server
+Apache Tomcat
+Application Server
+Arch Linux
+Asterisk
+Atlassian Confluence
+Atlassian Jira
+Autodesk 3ds Max
+Autodesk Maya
+BMC Remedy
+Bareos
+Bash
+Business English
+C#
+C++
+C/C++
+CCNA
+CCNP
+CSS
+CentOS
+CheckPoint
+Chef
+Cinema 4D
+Cisco
+Clickhouse
+Cloud-based services infrastructure
+Comita
+ConjectMI
+ConjectPM
+DAG
+DB2
+DBA
+DFS
+DHCP
+DNS
+Debian
+DevOps
+Diasoft
+Docker
+EGRP
+ELK-Stack
+ERP
+ERP Systems
+Envoy
+Ext JS
+FIrewall
+FTP
+Flextera
+FreeBSD
+GPO
+Git
+GitLab
+Grafana
+HAProxy
+HP
+HTML
+HTML5
+HTTP
+Hadoop
+Helpdesk
+Hitachi
+Horizon
+Houdini
+Http Proxy
+Huawei
+Hyper-V
+HyperV
+IBM Cognos
+IBM FileNet
+IBM Portal
+IBM WebSphere
+IDM
+IIS
+IMM
+IP АТС
+IP телефония
+IP-телефонов Cisco
+IPTables
+IT
+ITIL
+Internet
+Iron Python
+JBoss
+JaCarta
+Java
+Java EE
+Java SE
+JavaScript
+Jenkins
+Jira
+KVM
+Kafka
+Kubernetes
+LAMP
+LAN
+LXD
+Libre
+Linux
+MS AD
+MS Exchange
+MS Office
+MS Outlook
+MS SQL
+MS SQL Server
+MS SharePoint
+MS Visual Studio
+MS Word
+Mac Os
+Microsoft
+Microsoft Access
+Microsoft Certified IT Professional
+Microsoft Certified Technology Specialist
+Microsoft SQL Server
+Microsoft Windows Server
+Mikrotik
+Motorola
+Ms Exchange Server
+MySQL
+Nagios
+Nagios nginx
+NetApp
+Nginx
+OC Windows 2008-2016
+ORACLE
+OSPF
+OTRS
+Office 365
+OpenSUSE
+Oracle Pl/SQL
+Oracle Siebel CRM
+PHP
+PHP5
+PKI
+PMBOK
+Panasonic
+Perl
+PostgreSQL
+PowerShell
+Proxmox
+Puppet
+Python
+RAID
+RDP
+RDS
+RHEL
+RSA
+Radius
+Red Hat Enterprise Linux 6
+RedHat
+SAN
+SAP Business Objects
+SAP ERP
+SIEM
+SIP
+SLA
+SMTP/POP3/IMAP
+SQL
+SQL Server
+SVN
+SaaS
+Samba
+Scrum
+ServiceDesk
+Shell
+Shell Scripting
+Spider Project
+Splunk
+TCP/IP
+TFS
+Tableau
+TeamCity
+Tech Ops
+Terraform
+Transact-SQL
+Ubuntu
+Ubuntu Server
+Unix
+VCP
+VLAN
+VMWare or Hyper-V or  XenServer or Proxmox
+VMware
+VPN
+Veeam
+Vertica
+VoIP
+WAN
+WDS
+WS SharePoint
+WSUS
+Web-сервер
+Wifi networks
+Win XP/7/8/10
+Windjws 10
+Windows
+Windows - Windows - Server 2008, 2012 R2‚ AD‚ GPO‚ DNS‚ DHCP‚ RDS‚ MS Hyper-V‚ практический опыт
+Windows 10
+Windows 7
+Windows 8
+Windows Os
+Windows PowerShell ISE
+Windows Server
+Windows Server 2003
+Windows Server 2008
+Windows Server 2008 R2
+Windows Server 2008/2012/2016
+Windows Server 2012
+Windows Server 2016
+Windows Vista
+Windows Xp
+Wmware
+XML
+Zabbix
+Zabix
+eToken
+hbase
+iLo
+iPECS-ip телефония
+infinity
+jQuery
+rsinc
+rutoken
+vCloud
+vRealize
+vblock
+vcp-nv
+Аlt Linux
+АПМДЗ
+АТС
+Автоматизация
+Автоматизация процессов
+Автоматизация технологических процессов
+Администрирование
+Администрирование Kerio Winroute Firewall
+Администрирование Oracle 9I
+Администрирование ПО
+Администрирование баз 1С
+Администрирование бизнес-приложений
+Администрирование сайтов
+Администрирование серверов
+Администрирование серверов Linux
+Администрирование серверов Windows
+Администрирование сетевого оборудования
+Администрирование сетей
+Английский язык
+Антивирусная защита сети
+Астра
+Базы данных
+Безопасность
+Ведение переговоров
+Владение паяльником
+Внедрение систем информационной безопасности
+Внимательность
+Выявление каналов утечки информации
+Гарант
+Грамотная речь
+Грамотность
+Деловая коммуникация
+Деловая корреспонденция
+Деловая переписка
+Деловое общение
+Диагностика проблем и неисправностей
+Диасофт
+Доброжелательность
+Желание зарабатывать
+Закупка оргтехники и оборудования
+Знание клиентских операционных систем семейства Windows,
+Знание проблем и ошибок в компьютерной техники
+Знание серверных операционных систем семейства Linux
+ИТ инфраструктра
+Инвентаризация
+Информационная безопасность
+Информационные технологии
+Исполнительность
+Коммуникабельность
+Консультирование
+Контроль исполнения  решений
+Лечение/Устранение вирусов
+Локальные сети
+Маршрутизация динамическая
+МойОфис
+Мониторинг работы информационных систем и ИТ-сервисов компании;
+Монтаж инженерных систем
+Мотивация персонала
+НСД "SecretNet"
+НСД "Аккорд"
+Навыки презентации
+Навыки работы с компьютером, уверенный пользователь (Exсel, Word), интерес к киберспорту.
+Настройка DNS
+Настройка Wi-Fi роутеров, 4G модемов
+Настройка АРМ
+Настройка ПК
+Настройка ПО
+Настройка интернет-подключений
+Настройка почтовых серверов
+Настройка серверов
+Настройка сетевых подключений
+Научные исследования
+Не менее 5 лет в сфере ИТ
+Неконфликтность
+ОС AIX/HP-UX
+ОС Linux
+Обучаемость
+Обучение
+Опыт настройки видеокамер, систем видеонаблюдения RVI;
+Опыт настройки клиент-банка, установки сертификатов;
+Опыт прокладки ЛВС‚ подключения сетевых розеток
+Организаторские навыки
+Организация мероприятий
+Организация рабочих мест
+Ориентация на результат
+Ответственность
+Офисная техника
+ПАК "Соболь"
+Планирование продаж
+Поиск и привлечение клиентов
+Поиск информации в интернет
+Пользователь ПК
+Проведение инвентаризаций
+Проведение тестирований
+Проектирование ЛВС
+Проектная документация
+Проф. область Интернет, Телекоммуникации, Облачные сервисы, Хостинг
+Прямые продажи
+Пунктуальность
+Пуско-наладочные работы
+Работа в команде
+Работа с доменами
+Работа с локальными сетями
+Работа с оргтехникой
+Работоспособность
+Развитие продаж
+Резервное копирование
+Резервное копирование Acronis
+Ремонт ПК
+Ремонт ПК и железа (опыт пайки приветствуется)
+Руководство коллективом
+СУБД
+СУБД Oracle
+СХД
+СЭД
+Самоорганизованность
+Сборка ПК
+Системная интеграция
+Системное ПО
+Системное администирование
+Системное администрирование Windows-домена
+Системное мышление
+Системы видеонаблюдения
+Системы мониторинга сетей
+Способность к обучению персонала
+Средства криптографической защиты информации
+Стрессовое интервью
+Стрессоустойчивость
+Тайм-менеджмент
+Тестирование пользовательского интерфейса
+Техническая поддержка
+Техническая экспертиза
+Технические системы и средства безопасности
+Технические средства информационной защиты
+Техническое обслуживание
+Уверенное владение MS Office, практические навыки настройки
+Умение качественно исправить ошибки и починить технику
+Управление временем
+Управление персоналом
+Управление продажами
+Управление проектами
+Установка и настройка 1С на рабочих местах, подключение баз данных;
+Установка программного обеспечения
+Установка/Переустановка Windows
+Функциональное тестирование
+Целеустремленность
+Экспертный аудит информационных систем
+администрирование СУБД
+администрирование облачных сервисов
+администрирование операционных систем
+ведение баз данных
+виртуализация
+выездной мастер по ремонту компьютеров
+готовность осваивать новые знания и технологии
+знание трудового законодательства
+компьютерная помощь
+мастер компьютеров
+миграция
+навыки составления документов
+настройка сетевого оборудования
+опыт работы от 3 лет
+пентест
+проектирование СКУД
+сетевые протоколы
+системное администрирование ОС
+системный администратор
+стандарты ИБ
+стендовые испытания
+техническая поддержека

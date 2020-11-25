@@ -1,0 +1,474 @@
+Skills for this vacancy:
+*nix
+1C
+1C:Предприятие
+1С
+1С-Битрикс
+1С: Предприятие
+1С: Предприятие 8
+AD
+API
+ATC Panasonic
+AWS
+Active Directory
+Administrative Support
+Agile Project Management
+Airflow
+Ajax
+Amazon
+Amazon S3
+Amazon web services
+Android
+Ansible
+Apache
+Apache HTTP Server
+Apache Tomcat
+Application Server
+Arch Linux
+Asterisk
+Atlassian Confluence
+Atlassian Jira
+Auto Scaling
+AutoCAD
+BGP
+BI
+BMC Remedy
+Bamboo
+Bareos
+Bash
+Big Data
+Business English
+C#
+C++
+C/C++
+CCNA
+CCNP
+CD
+CI
+CI/CD
+CRM
+CSS
+CentOS
+Ceph
+CheckPoint
+Chef
+Cisco
+ClickHouse
+Cloud-based services infrastructure
+Comita
+Configuration management
+ConjectMI
+ConjectPM
+DB2
+DBA
+DFS
+DHCP
+DNS
+DWH
+Databases
+Debian
+Deploy
+Devops
+Diasoft
+Digital Marketing
+Django Framework
+Docker
+Docker orchestration
+ELK
+ELK-Stack
+ERP
+ETL
+Elastic Load Balance
+Envoy
+Ext JS
+FTP
+Firebase
+Flextera
+FreeBSD
+FreeIPA
+GPO
+GRE
+Git
+GitLab
+Gitlab CI
+Gitlab-ci
+Go
+Grafana
+Graphite
+Groovy
+HAProxy
+HP
+HTML
+HTML5
+HTTP
+Hadoop
+Headhunting
+Helpdesk
+Highload
+Hitachi
+HortonWorks
+Http Proxy
+Http Server
+Huawei
+Hyper-V
+HyperV
+IBM Cognos
+IBM FileNet
+IBM Portal
+IBM WebSphere
+IDM
+IIS
+IMM
+IP АТС
+IP телефония
+IPSEC
+IPTables
+IT
+IT Recruitment
+ITIL
+ITSM
+IaaS
+InnoDB
+Internet
+Iron Python
+JBoss
+JIRA
+Java
+JavaScript
+Jenkins
+Jmeter
+KVM
+Kafka
+Kanban
+Kubernetes
+LAMP
+LSF
+LXC
+LXD
+Libre
+Linux
+Linux administration
+Linux system administration
+Linux virtualization
+MS AD
+MS Exchange
+MS Office
+MS Outlook
+MS SQL
+MS SQL Server
+MS Visual Studio
+MS Word
+MSSQL
+MVC
+Mac Os
+Maven
+MaxScale
+Memcached
+Microsoft
+Microsoft Certified IT Professional
+Microsoft Certified Technology Specialist
+Microsoft SQL Server
+Microsoft Windows Server
+Mikrotik
+MongoDB
+Ms Exchange Server
+MySQL
+NAT
+Nagios
+Nagios nginx
+Networking
+Nginx
+NoSQL
+Node.js
+ORACLE
+OSIsoft
+OSPF
+OTRS
+OpenNebula
+OpenSUSE
+Openstack
+Oracle Linux
+Oracle Pl/SQL
+PHP
+PHP5
+PKI
+PL/pgSQL
+Panasonic
+Percona
+Percona Monitoring & Management
+Percona Toolkit
+Percona XtraDb Cluster
+Perl
+PostgreSQL
+PostgreSQL DBA
+PowerShell
+Progress
+Prometheus
+Proxmox
+ProxySQL
+Puppet
+Python
+QA
+RAID
+RDS
+RHEL
+RSA
+RabbitMQ
+Radius
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux 6
+RedHat
+Redis
+Redmine
+Routing Protocols
+Ruby
+SAN
+SAP ERP
+SAS CIS
+SAS MA
+SAS base
+SDS
+SDS Ceph
+SIEM
+SIP
+SLA
+SMTP/POP3/IMAP
+SQL
+SQL Server
+SRE
+SSH
+SVN
+SaaS
+Samba
+Sas
+Scripting
+ServiceDesk
+Shell
+Shell Scripting
+Software Development
+Solaris
+Spider Project
+Splunk
+TCP/IP
+TCP/IP/Netflow/SNMP/DNS/HTTP/HTTPS/SMTP
+TFS
+Tableau
+TeamCity
+Teamleading
+Tech Ops
+Teradata
+Terraform
+Transact-SQL
+Travis
+UDP
+Ubuntu
+Ubuntu Server
+Unix
+VBA
+VCP
+VLAN
+VMware
+VPN
+Veeam
+Vertica
+Virtualization
+VoIP
+WDS
+WEB аналитика
+WS SharePoint
+WSUS
+Web-дизайн
+Web-сервер
+Wifi networks
+Win XP/7/8/10
+Windows
+Windows - Windows - Server 2008, 2012 R2‚ AD‚ GPO‚ DNS‚ DHCP‚ RDS‚ MS Hyper-V‚ практический опыт
+Windows 7
+Windows 8
+Windows Os
+Windows Server
+Windows Server 2003
+Windows Server 2008
+Windows Server 2008 R2
+Windows Server 2008/2012/2016
+Windows Server 2012
+Windows Server 2016
+Windows Vista
+Windows Xp
+Wmware
+XML
+XtraBackup
+Zabbix
+Zabix
+asyncio
+awk
+bug bounty
+cassandra
+cloud
+elasticsearch
+failolover
+find
+grep
+iLo
+iPECS-ip телефония
+infinity
+influxdb
+jQuery
+linux/ubuntu
+load balancing
+nexus-repository
+owasp
+packer
+pentest
+pgsql
+replication
+rsinc
+salt
+sed
+single-page
+snmp
+systemd
+tarantool
+tcpdump
+ubuntu 16.04
+vCloud
+vRealize
+vagrant
+vblock
+vcp-nv
+web-сервисы
+weblogic
+Аlt Linux
+АБС
+АТС
+Автоматизация
+Автоматизация процессов
+Автоматизация технологических процессов
+Администрирование
+Администрирование Oracle 9I
+Администрирование PostgreSQL
+Администрирование веб-серверов
+Администрирование сайтов
+Администрирование серверов
+Администрирование серверов Linux
+Администрирование серверов Windows
+Администрирование сетевого оборудования
+Английский язык
+Антивирусная защита сети
+Асинхронное программирование
+Астра
+Базы данных
+Безопасность
+Битрикс 24
+Ведение переговоров
+Виртуализация
+Гарант
+Грамотная речь
+Грамотность
+Деловая коммуникация
+Деловая корреспонденция
+Деловая переписка
+Диагностика
+Диасофт
+Закупка оргтехники и оборудования
+Знание клиентских операционных систем семейства Windows,
+Знание серверных операционных систем семейства Linux
+Знание сетевой архитектуры
+ИТ инфраструктра
+Информационная безопасность
+Информационные технологии
+Исполнительность
+Контроль исполнения  решений
+Локальные сети
+Маршрутизация динамическая
+МойОфис
+Мониторинг работы информационных систем и ИТ-сервисов компании;
+Монтаж инженерных систем
+Мотивация персонала
+Навыки презентации
+Нагрузочное тестирование
+Настройка DNS
+Настройка ПК
+Настройка ПО
+Настройка почтовых серверов
+Настройка серверов
+Настройка серверов Apache
+Настройка сетевых подключений
+Научные исследования
+ОС AIX/HP-UX
+ОС Linux
+Опыт настройки видеокамер, систем видеонаблюдения RVI;
+Опыт настройки клиент-банка, установки сертификатов;
+Опыт прокладки ЛВС‚ подключения сетевых розеток
+Организаторские навыки
+Организация рабочих мест
+Ориентация на результат
+Ответственность
+Офисная техника
+Подбор персонала
+Поиск информации в интернет
+Поиск персонала в открытых источниках
+Пользователь ПК
+Проведение тестирований
+Проектирование ЛВС
+Проектная документация
+Проф. область Интернет, Телекоммуникации, Облачные сервисы, Хостинг
+Работа в команде
+Работа с доменами
+Работа с локальными сетями
+Работа с оргтехникой
+Разработка сайтов
+Резервное копирование
+Резервное копирование Acronis
+Рекрутмент
+Ремонт ПК
+Руководство коллективом
+СУБД
+СУБД MySQL.
+СУБД Oracle
+СХД
+СЭД
+Сборка ПК
+Системная интеграция
+Системное ПО
+Системное администирование
+Системное мышление
+Системный администратор
+Системы безопасности
+Системы видеонаблюдения
+Системы мониторинга сетей
+Средства криптографической защиты информации
+Стрессоустойчивость
+Тайм-менеджмент
+Тестирование
+Тестирование пользовательского интерфейса
+Техническая поддержка
+Техническая экспертиза
+Технические системы и средства безопасности
+Уверенное владение MS Office, практические навыки настройки
+Управление временем
+Управление персоналом
+Управление проектами
+Установка и настройка 1С на рабочих местах, подключение баз данных;
+Функциональное тестирование
+Целеустремленность
+Экспертный аудит информационных систем
+большие объёмы данных
+готовность осваивать новые знания и технологии
+локальная сеть
+настройка баз данных
+настройка сетевого оборудования
+пентест
+подготовка рабочих мест
+работа с файловым сервером
+радиолокация
+радионавигация
+руководство командой разработчиков
+сетевое оборудование Cisco/Juniper
+сетевые протоколы
+системное администрирование
+системное администрирование ОС
+стандарты ИБ
+стендовые испытания
+телефония
+техническая поддержека

@@ -1,0 +1,307 @@
+Skills for this vacancy:
+*nix
+1C
+1С: Предприятие 8
+API
+AWS
+Active Directory
+Administrative Support
+Agile Project Management
+Airflow
+Ajax
+Amazon
+Android
+Ansible
+Asterisk
+Atlassian Jira
+Auto Scaling
+AutoCAD
+BGP
+BI
+BMC Remedy
+Bamboo
+Bareos
+Bash
+Big Data
+Business English
+C++
+CCNA
+CCNP
+CD
+CRM
+CSS
+CentOS
+Ceph
+CheckPoint
+Chef
+ClickHouse
+Cloud-based services infrastructure
+Comita
+ConjectMI
+ConjectPM
+DB2
+DBA
+DFS
+DHCP
+DWH
+Databases
+Debian
+Deploy
+Devops
+Diasoft
+Digital Marketing
+Django Framework
+Docker
+ELK-Stack
+ERP
+ETL
+Envoy
+Ext JS
+FTP
+Firebase
+Flextera
+FreeBSD
+FreeIPA
+GPO
+GRE
+Git
+Gitlab CI
+Go
+Grafana
+Graphite
+Groovy
+HAProxy
+HTML
+HTML5
+Hadoop
+Headhunting
+Helpdesk
+Highload
+Hitachi
+HortonWorks
+Huawei
+Hyper-V
+HyperV
+IBM WebSphere
+IDM
+IIS
+IMM
+IPSEC
+IPTables
+IT Recruitment
+ITIL
+ITSM
+IaaS
+InnoDB
+Internet
+JBoss
+Java
+JavaScript
+Jenkins
+Jmeter
+KVM
+Kafka
+Kanban
+Kubernetes
+LAMP
+LSF
+LXC
+LXD
+Libre
+MS AD
+MSSQL
+MVC
+Mac Os
+Maven
+MaxScale
+Memcached
+Mikrotik
+MongoDB
+MySQL
+NAT
+Nagios
+Networking
+Nginx
+NoSQL
+OSIsoft
+OSPF
+OTRS
+OpenNebula
+OpenSUSE
+Openstack
+PHP
+PHP5
+PKI
+Panasonic
+Percona
+Perl
+PostgreSQL
+PowerShell
+Progress
+Prometheus
+Proxmox
+ProxySQL
+Puppet
+Python
+QA
+RAID
+RDS
+RHEL
+RSA
+RabbitMQ
+Radius
+RedHat
+Redis
+Redmine
+Routing Protocols
+Ruby
+SAN
+SAS CIS
+SDS
+SIEM
+SIP
+SLA
+SMTP/POP3/IMAP
+SQL
+SRE
+SSH
+SVN
+SaaS
+Samba
+ServiceDesk
+Shell Scripting
+Software Development
+Solaris
+Splunk
+TCP/IP
+TFS
+Tableau
+TeamCity
+Teamleading
+Tech Ops
+Teradata
+Terraform
+Travis
+UDP
+Unix
+VBA
+VCP
+VLAN
+VMware
+VPN
+Veeam
+Vertica
+Virtualization
+VoIP
+WDS
+WS SharePoint
+WSUS
+Web-сервер
+Wifi networks
+Windows Server
+Wmware
+XML
+XtraBackup
+Zabbix
+Zabix
+asyncio
+awk
+bug bounty
+cassandra
+elasticsearch
+failolover
+find
+grep
+iLo
+infinity
+influxdb
+jQuery
+load balancing
+nexus-repository
+owasp
+packer
+pentest
+pgsql
+replication
+rsinc
+salt
+sed
+single-page
+snmp
+systemd
+tarantool
+tcpdump
+vCloud
+vRealize
+vagrant
+vblock
+weblogic
+АБС
+АТС
+Автоматизация процессов
+Администрирование серверов Linux
+Английский язык
+Асинхронное программирование
+Астра
+Базы данных
+Битрикс 24
+Ведение переговоров
+Виртуализация
+Гарант
+Грамотная речь
+Грамотность
+Деловая корреспонденция
+Диагностика
+Диасофт
+Знание сетевой архитектуры
+ИТ инфраструктра
+Информационная безопасность
+Исполнительность
+Контроль исполнения  решений
+Локальные сети
+Маршрутизация динамическая
+МойОфис
+Мотивация персонала
+Настройка DNS
+Научные исследования
+ОС AIX/HP-UX
+Опыт настройки клиент-банка, установки сертификатов;
+Организаторские навыки
+Ориентация на результат
+Ответственность
+Офисная техника
+Проведение тестирований
+Проектирование ЛВС
+Проектная документация
+Проф. область Интернет, Телекоммуникации, Облачные сервисы, Хостинг
+Работа в команде
+Разработка сайтов
+Резервное копирование Acronis
+Рекрутмент
+Руководство коллективом
+СУБД Oracle
+СХД
+СЭД
+Сборка ПК
+Системная интеграция
+Системный администратор
+Системы мониторинга сетей
+Средства криптографической защиты информации
+Стрессоустойчивость
+Тайм-менеджмент
+Тестирование
+Техническая поддержка
+Управление проектами
+Целеустремленность
+Экспертный аудит информационных систем
+готовность осваивать новые знания и технологии
+локальная сеть
+пентест
+подготовка рабочих мест
+радиолокация
+радионавигация
+сетевое оборудование Cisco/Juniper
+сетевые протоколы
+стандарты ИБ
+стендовые испытания
+телефония

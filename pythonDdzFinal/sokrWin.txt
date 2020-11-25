@@ -1,0 +1,250 @@
+Skills for this vacancy:
+.NET Framework
+1C
+1С
+63-ФЗ
+AD
+API
+AWS
+Active Directory
+Administrative Support
+Adobe CS
+Ajax
+Amazon
+Android
+Ansible
+Asterisk
+Atlassian Jira
+Autodesk 3ds Max
+BMC Remedy
+Bareos
+Bash
+Business English
+C++
+CCNA
+CCNP
+CSS
+CentOS
+CheckPoint
+Chef
+Cinema 4D
+Cisco
+Clickhouse
+Cloud-based services infrastructure
+Comita
+ConjectMI
+ConjectPM
+DAG
+DB2
+DBA
+DFS
+DHCP
+DNS
+Debian
+DevOps
+Diasoft
+Docker
+EGRP
+ELK-Stack
+ERP Systems
+Envoy
+Ext JS
+FIrewall
+FTP
+Flextera
+FreeBSD
+GPO
+Git
+GitLab
+Grafana
+HAProxy
+HTML
+HTML5
+Hadoop
+Helpdesk
+Hitachi
+Horizon
+Houdini
+Huawei
+Hyper-V
+HyperV
+IBM WebSphere
+IDM
+IIS
+IMM
+IPTables
+IT
+ITIL
+Internet
+JBoss
+JaCarta
+Java
+JavaScript
+Jenkins
+KVM
+Kafka
+Kubernetes
+LAMP
+LAN
+LXD
+Libre
+Linux
+MS SQL Server
+Mac Os
+Microsoft Access
+Mikrotik
+Motorola
+MySQL
+NetApp
+Nginx
+OSPF
+OTRS
+Office 365
+OpenSUSE
+PHP
+PHP5
+PKI
+PMBOK
+Panasonic
+Perl
+PostgreSQL
+PowerShell
+Proxmox
+Puppet
+Python
+RAID
+RDP
+RDS
+RHEL
+RSA
+Radius
+RedHat
+SAN
+SIEM
+SIP
+SLA
+SMTP/POP3/IMAP
+SVN
+SaaS
+Samba
+Scrum
+ServiceDesk
+Shell
+Spider Project
+Splunk
+TCP/IP
+TFS
+Tableau
+TeamCity
+Tech Ops
+Terraform
+Unix
+VCP
+VLAN
+VMware
+VPN
+Veeam
+Vertica
+VoIP
+WAN
+WDS
+WS SharePoint
+WSUS
+Web-сервер
+Wifi networks
+Windjws 10
+Windows 7
+Wmware
+XML
+Zabbix
+Zabix
+eToken
+hbase
+iLo
+infinity
+jQuery
+rsinc
+rutoken
+vCloud
+vRealize
+vblock
+АПМДЗ
+АТС
+Автоматизация процессов
+Английский язык
+Астра
+Базы данных
+Ведение переговоров
+Владение паяльником
+Внимательность
+Гарант
+Грамотная речь
+Грамотность
+Деловая корреспонденция
+Деловое общение
+Диасофт
+Доброжелательность
+Желание зарабатывать
+ИТ инфраструктра
+Инвентаризация
+Информационная безопасность
+Исполнительность
+Коммуникабельность
+Консультирование
+Контроль исполнения  решений
+Лечение/Устранение вирусов
+Локальные сети
+Маршрутизация динамическая
+МойОфис
+Мотивация персонала
+НСД "Аккорд"
+Настройка сетевых подключений
+Научные исследования
+Неконфликтность
+ОС AIX/HP-UX
+Обучаемость
+Обучение
+Организаторские навыки
+Организация рабочих мест
+Ориентация на результат
+Ответственность
+Офисная техника
+ПАК "Соболь"
+Пользователь ПК
+Проведение тестирований
+Проектирование ЛВС
+Проектная документация
+Проф. область Интернет, Телекоммуникации, Облачные сервисы, Хостинг
+Прямые продажи
+Пунктуальность
+Работа в команде
+Работоспособность
+Развитие продаж
+Резервное копирование Acronis
+Руководство коллективом
+СУБД Oracle
+СХД
+СЭД
+Самоорганизованность
+Системная интеграция
+Системы видеонаблюдения
+Стрессовое интервью
+Стрессоустойчивость
+Тайм-менеджмент
+Тестирование пользовательского интерфейса
+Техническая поддержка
+Техническое обслуживание
+Управление продажами
+Целеустремленность
+Экспертный аудит информационных систем
+виртуализация
+готовность осваивать новые знания и технологии
+компьютерная помощь
+мастер компьютеров
+миграция
+опыт работы от 3 лет
+пентест
+сетевые протоколы
+системный администратор
+стандарты ИБ
+стендовые испытания
